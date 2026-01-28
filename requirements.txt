@@ -1,0 +1,6 @@
+numpy==1.26.4
+pandas==2.3.3
+# Great Expectations core package (0.18.x works with pandas 2.x)
+great-expectations==0.18.22
+pytest>=7.0,<9.0
+jinja2>=3.1,<4.0

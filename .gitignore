@@ -1,0 +1,28 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+.venv*/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# Data & reports generated artifacts
+/data/output_*.csv
+/validation_report*.html
+/index.html
+/great_expectations/expectations/*_clean.json
+/great_expectations/expectations/suites_index.json
+
+# Jupyter and notebooks
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
